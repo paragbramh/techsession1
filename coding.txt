@@ -1,2 +1,4 @@
 welcome to coding world !!
 sharukh khan loves c++
+rajni kant likes ML 
+amir loves python !
